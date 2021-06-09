@@ -1,0 +1,172 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{lyu2013comparison}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LQ}{%
+         family={Lyu},
+         familyi={L\bibinitperiod},
+         given={Qin},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Zhouchen},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={She},
+         familyi={S\bibinitperiod},
+         given={Yiyuan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=ZC}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Chao},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{LQLZSY+1}
+    \strng{fullhash}{LQLZSYZC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{413\bibrangedash 424}
+    \field{title}{A comparison of typical ℓp minimization algorithms}
+    \field{volume}{119}
+    \field{journaltitle}{Neurocomputing}
+    \field{year}{2013}
+  \endentry
+
+  \entry{2010}{thesis}{}
+    \name{author}{4}{}{%
+      {{hash=�}{%
+         family={常象宇},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={饶过},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={吴一戎},
+         familyi={�\bibinitperiod},
+      }}%
+      {{hash=�}{%
+         family={徐宗本},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{���+1}
+    \strng{fullhash}{����1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{如何在压缩感知中正确使用阈值迭代算法}
+    \field{type}{phdthesis}
+    \field{year}{2010}
+  \endentry
+
+  \entry{lin2020qista}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LGX}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Gang-Xuan},
+         giveni={G\bibinithyphendelim X\bibinitperiod},
+      }}%
+      {{hash=HSW}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Shih-Wei},
+         giveni={S\bibinithyphendelim W\bibinitperiod},
+      }}%
+      {{hash=LCS}{%
+         family={Lu},
+         familyi={L\bibinitperiod},
+         given={Chun-Shien},
+         giveni={C\bibinithyphendelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LGXHSWLCS1}
+    \strng{fullhash}{LGXHSWLCS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{QISTA-Net: DNN Architecture to Solve $$\backslash$ell\_q
+  $-norm Minimization Problem and Image Compressed Sensing}
+    \field{journaltitle}{arXiv preprint arXiv:2010.11363}
+    \field{year}{2020}
+  \endentry
+
+  \entry{RN258}{article}{}
+    \name{author}{2}{}{%
+      {{hash=MM}{%
+         family={Mishali},
+         familyi={M\bibinitperiod},
+         given={Moshe},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=EYC}{%
+         family={Eldar},
+         familyi={E\bibinitperiod},
+         given={Yonina\bibnamedelima C},
+         giveni={Y\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {IEEE}%
+    }
+    \strng{namehash}{MMEYC1}
+    \strng{fullhash}{MMEYC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{2}
+    \field{pages}{375\bibrangedash 391}
+    \field{title}{From theory to practice: Sub-Nyquist sampling of sparse
+  wideband analog signals}
+    \field{volume}{4}
+    \field{journaltitle}{IEEE Journal of selected topics in signal processing}
+    \field{year}{2010}
+  \endentry
+
+  \entry{RN257}{book}{}
+    \name{author}{1}{}{%
+      {{hash=�}{%
+         family={张贤达著},
+         familyi={�\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {北京：清华大学出版社}%
+    }
+    \strng{namehash}{�1}
+    \strng{fullhash}{�1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{isbn}{7-302-01707-7}
+    \field{pages}{590}
+    \field{title}{现代信号处理}
+    \field{type}{Book}
+    \field{year}{1995}
+  \endentry
+\enddatalist
+\endinput
